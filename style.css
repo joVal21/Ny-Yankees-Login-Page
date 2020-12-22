@@ -1,0 +1,33 @@
+/*Sizing for the page*/
+* {
+    box-sizing: border-box;
+}
+
+/*Style for the form*/
+.login {
+    margin: auto;
+    margin-top: 150px;
+    max-width: 250px;
+    height: 300px;
+    text-align: center;
+    background-color: rgba(87, 160, 209, 0.596);
+    color: white;
+    padding-top: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    box-shadow: 5px 5px 4px #466a99;
+}
+
+
+/*image sizing*/
+
+img {
+    padding-bottom: 20px;
+}
+
+/*User and Password reset links*/
+p {
+    font-family: monospace;
+    font-size: .5rem;
+    display: inline-block;
+
+}
